@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/jiangxd2016/pnpm-micro-app.git"
   },
-  "keywords": ["pnpm","vite","macro-app"],
+  "keywords": [
+    "pnpm",
+    "vite",
+    "macro-app"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -24,12 +28,11 @@
     "@micro-zoe/micro-app": "^0.8.11"
   },
   "devDependencies": {
-    "@estjs/eslint-config": "^0.3.4",
-    "@estjs/tools": "^0.0.28",
-    "eslint": "^8.23.0",
-    "pnpm": "^7.11.0",
+    "@estjs/eslint-config": "^0.6.5",
+    "@estjs/tools": "^0.0.35",
     "cross-env": "~7.0.3",
-    "express": "~4.17.1",
-    "npm-run-all": "~4.1.5"
+    "eslint": "^8.38.0",
+    "express": "~4.18.2",
+    "pnpm": "^7.32.0"
   }
 }
